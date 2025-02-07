@@ -3,7 +3,7 @@ Generatore di appelli casuali per corsi universitari, suddivisi in parte teorica
 
 ## Come funziona?
 0. Installate la libreria PILLOW sul vostro computer, facendo "pip install pillow" nel prompt di comandi.
-2. Scaricare tutta la cartella GeneratoreDiAppelli, in cui sono presenti GeneraAppello.py, Appelli, Teoria, Pratica
+2. Scaricare tutta la cartella GeneratoreDiAppelli.zip, in cui sono presenti GeneraAppello.py, Appelli, Teoria, Pratica, ed estrarla.
 3. Inserire nella cartella *Teoria* gli screenshot (.png .jpg .jpeg) delle domande di teoria, ATTENZIONE devono essere almeno 3.
 4. Inserire nella cartella *Pratica* gli screenshot (") delle domande di pratica, ATTENZIONE devono essere almeno 5.
 5. Esegui il programma *GeneraAppello.py*, una volta generato si aprira il file AppelloGeneratoN dove N è il numero di appello generato.
