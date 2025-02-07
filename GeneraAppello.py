@@ -8,9 +8,9 @@ import PIL
 import random
 ###############################################################################
 #Modifica le seguenti variabili in base alle tue necessità
-teoria = os.path.expanduser("~\Desktop\GeneratoreDiAppelli\Teoria")
-pratica = os.path.expanduser("~\Desktop\GeneratoreDiAppelli\Pratica")
-pathOutput = os.path.expanduser("~\Desktop\GeneratoreDiAppelli\Appelli")
+teoria = os.path.expanduser("~\OneDrive\Desktop\GeneratoreDiAppelli\Teoria")
+pratica = os.path.expanduser("~\OneDrive\Desktop\GeneratoreDiAppelli\Pratica")
+pathOutput = os.path.expanduser("~\OneDrive\Desktop\GeneratoreDiAppelli\Appelli")
 quesitiTeoria = 3
 quesitiPratica = 5
 ###############################################################################
