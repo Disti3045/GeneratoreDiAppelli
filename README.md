@@ -22,3 +22,4 @@ Se volete più quesiti di teoria o pratica basterà giocare con le variabili nel
 Aggiornerò e rivedrò sicuramente il codice per renderlo più adatto a tutte le situazioni, scalabile e modulare.
 Cosa lo rende meglio di un AI? Nulla, ma volevo divertirmi a farlo :D
 Sono sicuro funzioni su windows al 100%, macOs e Linux non testati :C
+Si, la sprite l'ho fatta io
