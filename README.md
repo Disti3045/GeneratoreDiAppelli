@@ -1,4 +1,4 @@
-# ![Generatore di Appelli](https://github.com/Disti3045/GeneratoreDiAppelli/blob/main/GeneratoreDiAppelli.png?raw=true) GeneratoreDiAppelli
+# ![Generatore di Appelli](https://github.com/Disti3045/GeneratoreDiAppelli/blob/main/GeneratoreDiAppelli.png?raw=true) GeneratoreDiAppelli by Leonardo Di Stefano
 Generatore di appelli casuali per corsi universitari, suddivisi in parte teorica e parte scritta.
 
 ## Come funziona?
